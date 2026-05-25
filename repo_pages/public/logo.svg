@@ -21,6 +21,6 @@
   <circle cx="9" cy="12" r="3" fill="url(#fg)" opacity="0.85"/>
   <circle cx="23" cy="12" r="3" fill="url(#fg)" opacity="0.85"/>
   <circle cx="16" cy="6" r="3" fill="url(#fg)" opacity="0.85"/>
-  <!-- Center node (hippocampus) -->
+  <!-- Center node (hebb) -->
   <circle cx="16" cy="14" r="3.5" fill="#bc8cff"/>
 </svg>
